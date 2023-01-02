@@ -15,7 +15,5 @@ printf("the sub =%d\n",sub);
 printf("the mul =%d\n",mul);
 printf("the div =%f\n",div);
 printf("the mod =%d\n",mod);
-
-
 return 0;	
 }
