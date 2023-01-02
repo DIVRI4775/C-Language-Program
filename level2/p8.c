@@ -1,4 +1,3 @@
-// WAP TO CALCULATE AREA AND PERIMETER OF SHAPES
 #include<stdio.h>
 int main()
 {
@@ -25,13 +24,3 @@ int main()
 	printf ("area of triangle=%d\n",at);
 	return 0;
 }
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
