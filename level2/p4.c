@@ -1,3 +1,4 @@
+// WAP TO CALCULATE PERIMETER AND AREA OF SQUARE
 #include<stdio.h>
 int main()
 {
