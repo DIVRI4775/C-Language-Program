@@ -7,6 +7,6 @@ sum=0;
 printf("Enter two numbers for doing Sum operation : ");
 scanf("%d%d",&num1,&num2);
 sum =num1+num2;
-printf("The Sum of %d + %d = %d",num1,num2,sum);
+printf("The Sum of %d + %d = %d \n",num1,num2,sum);
 return 0;	
 }
