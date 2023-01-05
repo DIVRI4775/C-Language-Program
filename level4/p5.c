@@ -1,3 +1,4 @@
+//WAP TO CHECK VOWELS OR CONSONANTS
 #include<stdio.h>
 int main()
 {

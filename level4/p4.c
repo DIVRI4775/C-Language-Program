@@ -1,3 +1,4 @@
+//WAP TO CHECK NEGATIVE POSITIVE OR ZERO
 #include<stdio.h>
 int main()
 {
